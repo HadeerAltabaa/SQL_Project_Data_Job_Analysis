@@ -20,3 +20,15 @@ GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 5
 
+/*
+Insights Summary:
+- Foundational Dominance: To be competitive, job seekers must prioritize SQL. 
+    It is the most universally requested skill, serving as the "language of data" 
+    across almost all sectors.
+- The Technical Core: A "Gold Standard" skill set for a modern Data Analyst includes 
+    a combination of SQL for data retrieval, Excel/Python for processing, and 
+    Tableau/Power BI for presentation.
+- Broad Utility vs. Specialization: While Excel provides broad utility, the demand 
+    for Python indicates that the market is leaning toward more scalable and automated 
+    analytical workflows.
+*/

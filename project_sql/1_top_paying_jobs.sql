@@ -23,3 +23,15 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
+
+/* 
+Based on the top 10 highest-paying Data Analyst roles in 2023:
+- Salary Range: Salaries range from $\$184,000$ to $\$650,000$, with an average of $\$264,506$.
+- Top Earner: Mantys is a major outlier, offering $\$650,000$ for a "Data Analyst" role.
+- Seniority Matters: Most high-paying roles are senior-level positions, including Directors, 
+    Associate Directors, and Principal Data Analysts.
+- Remote Work: All top 10 positions are full-time and remote ("Anywhere"), reflecting a high demand 
+    for top talent regardless of location.
+- Key Industries: High compensation is found in specialized sectors like FinTech (SmartAsset), 
+    Social Media (Meta, Pinterest), and Telecommunications (AT&T).
+*/

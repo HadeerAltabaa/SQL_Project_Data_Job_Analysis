@@ -19,3 +19,11 @@ WHERE
 GROUP BY skills
 ORDER BY avg_salary DESC
 LIMIT 25
+
+/*
+Summary for Career Growth
+- While general skills like SQL and Excel are essential for entering the field,
+    achieving the highest salary brackets requires specialization in Big Data frameworks 
+    (PySpark), collaborative development tools (Bitbucket/GitLab), and advanced 
+    analytical libraries (Pandas/NumPy).
+*/

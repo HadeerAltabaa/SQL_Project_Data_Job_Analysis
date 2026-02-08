@@ -30,13 +30,13 @@ To perform this analysis, I leveraged several key technologies:
 The analysis identified the top 10 highest-paying remote Data Analyst roles.
 
 * **Salary Range:** Salaries range from **$184,000 to $650,000**, with an average of **$264,506**.
-* **Top Earner:** **Mantys** is a significant outlier, offering a staggering ****.
+* **Top Earner:** **Mantys** is a significant outlier, offering a staggering **$650,000**.
 * **Key Sectors:** High compensation is concentrated in **FinTech** (SmartAsset), **Social Media** (Meta, Pinterest), and **Telecommunications** (AT&T).
 ![Top Paying Jobs](images/1_top_paying_jobs.png)
 
 ### 2. Skills for High-Paying Jobs
 
-What do these  roles require?
+What do these $200k+ roles require?
 
 * **The "Big Three":** **SQL** (8/10), **Python** (7/10), and **Tableau** (6/10) are the most critical.
 * **Engineering Practices:** Top roles increasingly demand software engineering tools like **Git**, **Bitbucket**, and **Jira**.
@@ -54,8 +54,8 @@ Looking at the entire market, these are the most frequently requested skills:
 
 If you want to maximize your paycheck, focus on these:
 
-* **PySpark** leads the list with an average salary of ****.
-* Other high-paying technical skills include **Bitbucket** (), **Couchbase** (), and **Pandas** ().
+* **PySpark** leads the list with an average salary of **$208,172**.
+* Other high-paying technical skills include **Bitbucket** ($189,155), **Couchbase** ($160,515), and **Pandas** ($151,821).
 ![Top Paying Skills](images/4_top_paying_skills.png)
 
 ### 5. Optimal Skills (The Sweet Spot)
@@ -64,10 +64,10 @@ Combining high demand and high pay, these are the best skills to learn for caree
 
 | Skill | Demand (Postings) | Avg. Salary ($) | Strategic Value |
 | --- | --- | --- | --- |
-| **Python** | 236 |  | Highest Versatility |
-| **Tableau** | 230 |  | Visualization Standard |
-| **Snowflake** | 37 |  | Cloud Data Premium |
-| **Looker** | 49 |  | Modern BI Specialist |
+| **Python** | 236 | $101,397 | Highest Versatility |
+| **Tableau** | 230 | $99,288 | Visualization Standard |
+| **Snowflake** | 37 | $112,948 | Cloud Data Premium |
+| **Looker** | 49 | $103,795 | Modern BI Specialist |
 
 ![Optimal Skills](images/5_optimal_skills.png)
 

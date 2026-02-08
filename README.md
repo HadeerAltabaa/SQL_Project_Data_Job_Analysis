@@ -29,7 +29,7 @@ To perform this analysis, I leveraged several key technologies:
 
 The analysis identified the top 10 highest-paying remote Data Analyst roles.
 
-* **Salary Range:** Salaries range from **$\$184,000$ to $\$650,000$**, with an average of **$\$264,506$**.
+* **Salary Range:** Salaries range from **$184,000 to $650,000**, with an average of **$264,506**.
 * **Top Earner:** **Mantys** is a significant outlier, offering a staggering ****.
 * **Key Sectors:** High compensation is concentrated in **FinTech** (SmartAsset), **Social Media** (Meta, Pinterest), and **Telecommunications** (AT&T).
 ![Top Paying Jobs](images/1_top_paying_jobs.png)
@@ -68,6 +68,7 @@ Combining high demand and high pay, these are the best skills to learn for caree
 | **Tableau** | 230 |  | Visualization Standard |
 | **Snowflake** | 37 |  | Cloud Data Premium |
 | **Looker** | 49 |  | Modern BI Specialist |
+
 ![Optimal Skills](images/5_optimal_skills.png)
 
 ## 💡 What I Learned
